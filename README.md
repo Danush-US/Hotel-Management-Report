@@ -8,8 +8,8 @@ The **Hotel Management Analytics Dashboard** is a powerful business intelligence
 
 Hotel management involves staying on top of dynamic variables such as evolving booking patterns, seasonal demand, cancellations, and revenue optimization. The majority of hotel managers rely on legacy systems or spreadsheets that lack the capacity to deliver real-time insight, thus leading to missed revenue opportunities and inefficient decision-making.
 
-
-
+![](https://github.com/Danush-US/Hotel-Management-Report/blob/main/Screenshot%202025-05-20%20154317.png)
+![](https://github.com/Danush-US/Hotel-Management-Report/blob/main/Screenshot%202025-05-20%20154335.png)
 ### Key Challenges Addressed:
 
 - No real-time visibility into occupancy and revenue trends.
