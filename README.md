@@ -26,17 +26,6 @@ Hotel management involves staying on top of dynamic variables such as evolving b
 - Enable granular analysis by day, week, and month.
 - Compare booking trends, room utilization, and revenue metrics.
 - Enhance forecasting capabilities with visual insights.
-## Visuals
-
-# KPI SUMMARY DASHBOARD
-![](https://github.com/Danush-US/Hotel-Management-Report/blob/main/Screenshot%202025-05-20%20153534.png)
-
-# OVERVIEW DASHBOARD
-![](https://github.com/Danush-US/Hotel-Management-Report/blob/main/Screenshot%202025-05-20%20153505.png)
-
-# MODEL VIEW
-
-![](https://github.com/Danush-US/Hotel-Management-Report/blob/main/Screenshot%202025-05-20%20153607.png)
 
 ---
 
@@ -66,6 +55,19 @@ Hotel management involves staying on top of dynamic variables such as evolving b
 - Provided insights on cancellation trends to improve refund and rescheduling policies.
 - Supported dynamic pricing strategies by visualizing seasonal trends.
 - Provided a scalable, professional analytics solution for operational optimization.
+
+## Visuals
+
+# KPI SUMMARY DASHBOARD
+![](https://github.com/Danush-US/Hotel-Management-Report/blob/main/Screenshot%202025-05-20%20153534.png)
+
+# OVERVIEW DASHBOARD
+![](https://github.com/Danush-US/Hotel-Management-Report/blob/main/Screenshot%202025-05-20%20153505.png)
+
+# MODEL VIEW
+
+![](https://github.com/Danush-US/Hotel-Management-Report/blob/main/Screenshot%202025-05-20%20153607.png)
+
 ---
 ## Future Enhancements
 
