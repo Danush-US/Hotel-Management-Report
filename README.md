@@ -8,6 +8,8 @@ The **Hotel Management Analytics Dashboard** is a powerful business intelligence
 
 Hotel management involves staying on top of dynamic variables such as evolving booking patterns, seasonal demand, cancellations, and revenue optimization. The majority of hotel managers rely on legacy systems or spreadsheets that lack the capacity to deliver real-time insight, thus leading to missed revenue opportunities and inefficient decision-making.
 
+
+
 ### Key Challenges Addressed:
 
 - No real-time visibility into occupancy and revenue trends.
@@ -24,26 +26,17 @@ Hotel management involves staying on top of dynamic variables such as evolving b
 - Enable granular analysis by day, week, and month.
 - Compare booking trends, room utilization, and revenue metrics.
 - Enhance forecasting capabilities with visual insights.
-## Key Metrics and Visuals
+## Visuals
 
-### ???? Total Revenue Over Time
+# KPI SUMMARY DASHBOARD
+![](https://github.com/Danush-US/Hotel-Management-Report/blob/main/Screenshot%202025-05-20%20153534.png)
 
-Shows trends in overall hotel revenue and identifies peak performing periods.
-![Total Revenue Over Time](dashboard_images/total_revenue.png)
+# OVERVIEW DASHBOARD
+![](https://github.com/Danush-US/Hotel-Management-Report/blob/main/Screenshot%202025-05-20%20153505.png)
 
----
+# MODEL VIEW
 
-### ????️ Room Nights Utilization
-
-Tracks overall room nights (weekdays + weekends) to analyze occupancy and operations workload.
-![Room Nights](dashboard_images/room_nights.png)
-
----
-
-### ???? Booking Status Trend
-
-Charts confirmed vs. cancelled bookings, enabling cancellation trends to be identified.
-![Booking Status](dashboard_images/booking_status_trend.png)
+![](https://github.com/Danush-US/Hotel-Management-Report/blob/main/Screenshot%202025-05-20%20153607.png)
 
 ---
 
